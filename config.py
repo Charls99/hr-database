@@ -1,0 +1,6 @@
+customhost = "employee.chumfw0fp4gr.us-east-1.rds.amazonaws.com"
+customuser = "hr_user"
+custompass = "hruser123"
+customdb = "hr_database"
+custombucket = "chow-test"
+customregion = "us-east-1"
